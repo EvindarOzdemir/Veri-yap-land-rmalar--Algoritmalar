@@ -1,1 +1,1 @@
-# Veri-yap-land-rmalar--Algoritmalar
+# Veri-yapilandirmalari-Algoritmalar
